@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Folder: Git - Raven - BRIGHT ORANGE/RED -->
+  <path d="M2 6 L7 6 L9 4 L14 4 L14 6 L22 6 L22 19 L2 19 Z" fill="#FF7043" opacity="0.9"/>
+  <rect x="2" y="7" width="20" height="12" rx="1" fill="#BF360C"/>
+  <!-- Raven -->
+  <ellipse cx="12" cy="13.5" rx="3" ry="2.5" fill="#4E342E" opacity="0.9"/>
+  <circle cx="12" cy="10.5" r="2" fill="#4E342E" opacity="0.95"/>
+  <!-- Beak -->
+  <path d="M14 10.5 L16.5 10 L14 11.5" fill="#FF7043"/>
+  <!-- Eye -->
+  <circle cx="13" cy="10" r="0.6" fill="#FF7043"/>
+  <circle cx="13" cy="10" r="0.25" fill="#FFF"/>
+  <!-- Wings -->
+  <path d="M9 12 Q6.5 9 8 7.5" stroke="#5D4037" stroke-width="0.8" fill="none"/>
+  <path d="M15 12 Q17.5 9 16 7.5" stroke="#5D4037" stroke-width="0.8" fill="none"/>
+  <!-- Branch dots -->
+  <circle cx="8" cy="16.5" r="0.7" fill="#FF7043" opacity="0.8"/>
+  <circle cx="12" cy="16.5" r="0.7" fill="#FF7043" opacity="0.8"/>
+  <circle cx="16" cy="16.5" r="0.7" fill="#FF7043" opacity="0.8"/>
+  <line x1="8.7" y1="16.5" x2="11.3" y2="16.5" stroke="#FF7043" stroke-width="0.5" opacity="0.6"/>
+  <line x1="12.7" y1="16.5" x2="15.3" y2="16.5" stroke="#FF7043" stroke-width="0.5" opacity="0.6"/>
+</svg>

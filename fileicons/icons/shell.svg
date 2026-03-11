@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Shell: Dragonhorn / War Horn -->
+  <defs>
+    <linearGradient id="bg_sh" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A1000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A0800;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="url(#bg_sh)"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#A1887F" opacity="0.4"/>
+  <path d="M13 1 L17 5" stroke="#A1887F" stroke-width="0.6" opacity="0.8"/>
+  <!-- War horn body -->
+  <path d="M5 14 Q5 10 8 9 Q11 8 14 7 L15 9 Q12 10 9 11 Q6 12 6 14 Z" fill="#A1887F" opacity="0.3"/>
+  <path d="M5 14 Q5 10 8 9 Q11 8 14 7 L15 9 Q12 10 9 11 Q6 12 6 14 Z" fill="none" stroke="#A1887F" stroke-width="0.8" opacity="0.7"/>
+  <!-- Horn mouth opening -->
+  <ellipse cx="5.5" cy="14" rx="1.5" ry="2" fill="#1A1000" opacity="0.5"/>
+  <ellipse cx="5.5" cy="14" rx="1.5" ry="2" fill="none" stroke="#A1887F" stroke-width="0.5" opacity="0.6"/>
+  <!-- Horn bands -->
+  <path d="M8 10.5 Q9 10 10 10.5" fill="none" stroke="#CFB53B" stroke-width="0.5" opacity="0.5"/>
+  <path d="M11 9 Q12 8.5 13 9" fill="none" stroke="#CFB53B" stroke-width="0.5" opacity="0.5"/>
+  <!-- Sound waves -->
+  <path d="M4 12 Q3 13 4 14" fill="none" stroke="#A1887F" stroke-width="0.4" opacity="0.3"/>
+  <path d="M3 11 Q1.5 13 3 15" fill="none" stroke="#A1887F" stroke-width="0.3" opacity="0.2"/>
+  <!-- $> prompt -->
+  <text x="6" y="18" font-family="monospace" font-size="4.5" font-weight="bold" fill="#A1887F" opacity="0.6">$&gt;</text>
+</svg>

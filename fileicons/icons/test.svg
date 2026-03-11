@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Test: Trial by Combat - BRIGHTER -->
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="#1A1A00"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#FDD835" opacity="0.6"/>
+  <path d="M13 1 L17 5" stroke="#FDD835" stroke-width="0.7"/>
+  <!-- Crossed swords -->
+  <line x1="6" y1="16" x2="12" y2="5" stroke="#E0E0E0" stroke-width="1.2"/>
+  <path d="M11.5 5 L12.5 4 L13 5.5" fill="#E0E0E0" opacity="0.8"/>
+  <line x1="5" y1="14.5" x2="8" y2="14.5" stroke="#FDD835" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="14" y1="16" x2="8" y2="5" stroke="#E0E0E0" stroke-width="1.2"/>
+  <path d="M8.5 5 L7.5 4 L7 5.5" fill="#E0E0E0" opacity="0.8"/>
+  <line x1="12" y1="14.5" x2="15" y2="14.5" stroke="#FDD835" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Checkmark -->
+  <path d="M8 17 L10 19 L14 15" fill="none" stroke="#66BB6A" stroke-width="1" stroke-linecap="round"/>
+</svg>

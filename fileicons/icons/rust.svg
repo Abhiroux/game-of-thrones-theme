@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Rust: Valyrian Steel Sword -->
+  <defs>
+    <linearGradient id="bg_rs" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A0D00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A0600;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="url(#bg_rs)"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#FF8A65" opacity="0.4"/>
+  <path d="M13 1 L17 5" stroke="#FF8A65" stroke-width="0.6" opacity="0.8"/>
+  <!-- Valyrian steel sword -->
+  <line x1="10" y1="5" x2="10" y2="15" stroke="#C0C0C0" stroke-width="1.2" opacity="0.8"/>
+  <!-- Blade shimmer -->
+  <line x1="10" y1="5" x2="10" y2="15" stroke="#E8E8E8" stroke-width="0.4" opacity="0.4"/>
+  <!-- Crossguard -->
+  <line x1="7" y1="14.5" x2="13" y2="14.5" stroke="#FF8A65" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+  <!-- Grip -->
+  <rect x="9.3" y="15" width="1.4" height="3" rx="0.3" fill="#8B4513" opacity="0.7"/>
+  <!-- Pommel -->
+  <circle cx="10" cy="18.8" r="1" fill="#FF8A65" opacity="0.6"/>
+  <!-- Blade tip -->
+  <path d="M9.5 5 L10 3.5 L10.5 5" fill="#C0C0C0" opacity="0.7"/>
+  <!-- Ripples on blade (Valyrian steel pattern) -->
+  <path d="M9.5 7 Q10 7.5 10.5 7" fill="none" stroke="#E8E8E8" stroke-width="0.3" opacity="0.3"/>
+  <path d="M9.5 9 Q10 9.5 10.5 9" fill="none" stroke="#E8E8E8" stroke-width="0.3" opacity="0.3"/>
+  <path d="M9.5 11 Q10 11.5 10.5 11" fill="none" stroke="#E8E8E8" stroke-width="0.3" opacity="0.3"/>
+</svg>

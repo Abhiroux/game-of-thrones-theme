@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Folder: Images - Banner Hall - BRIGHT MAGENTA -->
+  <path d="M2 6 L7 6 L9 4 L14 4 L14 6 L22 6 L22 19 L2 19 Z" fill="#CE93D8" opacity="0.9"/>
+  <rect x="2" y="7" width="20" height="12" rx="1" fill="#6A1B9A"/>
+  <!-- Hanging banners -->
+  <rect x="5.5" y="8.5" width="3.5" height="7" fill="#CE93D8" opacity="0.35"/>
+  <path d="M5.5 15.5 L7.25 17 L9 15.5" fill="#CE93D8" opacity="0.35"/>
+  <line x1="5" y1="8.5" x2="9.5" y2="8.5" stroke="#FFD700" stroke-width="0.7"/>
+  <rect x="14.5" y="8.5" width="3.5" height="7" fill="#CE93D8" opacity="0.35"/>
+  <path d="M14.5 15.5 L16.25 17 L18 15.5" fill="#CE93D8" opacity="0.35"/>
+  <line x1="14" y1="8.5" x2="18.5" y2="8.5" stroke="#FFD700" stroke-width="0.7"/>
+  <!-- Center landscape -->
+  <path d="M10 16 L11 12 L12 13.5 L13.5 10 L15 16" fill="none" stroke="#CE93D8" stroke-width="0.7" opacity="0.7"/>
+  <circle cx="11" cy="10.5" r="0.8" fill="#FFD700" opacity="0.7"/>
+</svg>

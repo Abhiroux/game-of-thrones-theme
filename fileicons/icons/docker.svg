@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Docker: Iron Fleet Ship - BRIGHTER -->
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="#001020"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#42A5F5" opacity="0.6"/>
+  <path d="M13 1 L17 5" stroke="#42A5F5" stroke-width="0.7"/>
+  <!-- Ship hull -->
+  <path d="M4 14 L6 17 L14 17 L16 14 Z" fill="#42A5F5" opacity="0.35"/>
+  <path d="M4 14 L6 17 L14 17 L16 14" fill="none" stroke="#42A5F5" stroke-width="1"/>
+  <!-- Mast -->
+  <line x1="10" y1="6" x2="10" y2="14" stroke="#42A5F5" stroke-width="0.8"/>
+  <!-- Sail -->
+  <path d="M10 6 L14 10 L10 12 Z" fill="#42A5F5" opacity="0.3"/>
+  <path d="M10 6 L14 10 L10 12 Z" fill="none" stroke="#42A5F5" stroke-width="0.6"/>
+  <!-- Waves -->
+  <path d="M3 17.5 Q5 16.5 7 17.5 Q9 18.5 11 17.5 Q13 16.5 15 17.5" fill="none" stroke="#64B5F6" stroke-width="0.6"/>
+  <path d="M4 19 Q6 18 8 19 Q10 20 12 19 Q14 18 16 19" fill="none" stroke="#90CAF9" stroke-width="0.5"/>
+</svg>

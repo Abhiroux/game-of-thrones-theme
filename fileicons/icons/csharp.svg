@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT C#: Longsword with Crown Pommel -->
+  <defs>
+    <linearGradient id="bg_cs" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A001A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A000A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="url(#bg_cs)"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#AB47BC" opacity="0.4"/>
+  <path d="M13 1 L17 5" stroke="#AB47BC" stroke-width="0.6" opacity="0.8"/>
+  <!-- Shield shape -->
+  <path d="M6 7 L10 6 L14 7 L14 13 Q14 17 10 18 Q6 17 6 13 Z" fill="#AB47BC" opacity="0.15"/>
+  <path d="M6 7 L10 6 L14 7 L14 13 Q14 17 10 18 Q6 17 6 13 Z" fill="none" stroke="#AB47BC" stroke-width="0.7" opacity="0.6"/>
+  <!-- Sharp # symbol on shield -->
+  <text x="7.5" y="14" font-family="monospace" font-size="7" font-weight="bold" fill="#AB47BC" opacity="0.8">#</text>
+  <!-- Crown on top of shield -->
+  <path d="M7 7 L8 5 L10 6.5 L12 5 L13 7" fill="none" stroke="#CFB53B" stroke-width="0.6" opacity="0.6"/>
+</svg>

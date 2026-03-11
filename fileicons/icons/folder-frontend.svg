@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Folder: Frontend - Throne Room / Great Hall - BRIGHT TEAL -->
+  <path d="M2 6 L7 6 L9 4 L14 4 L14 6 L22 6 L22 19 L2 19 Z" fill="#4DB6AC" opacity="0.9"/>
+  <rect x="2" y="7" width="20" height="12" rx="1" fill="#00695C"/>
+  <!-- Stained glass window -->
+  <path d="M8 17 L8 11 Q12 8 16 11 L16 17" fill="#4DB6AC" opacity="0.2"/>
+  <path d="M8 17 L8 11 Q12 8 16 11 L16 17" fill="none" stroke="#4DB6AC" stroke-width="0.8"/>
+  <!-- Window divisions -->
+  <line x1="12" y1="9" x2="12" y2="17" stroke="#4DB6AC" stroke-width="0.6"/>
+  <line x1="8" y1="13" x2="16" y2="13" stroke="#4DB6AC" stroke-width="0.6"/>
+  <!-- Rose window circle at top -->
+  <circle cx="12" cy="10.5" r="1.5" fill="none" stroke="#80CBC4" stroke-width="0.6"/>
+  <circle cx="12" cy="10.5" r="0.5" fill="#80CBC4" opacity="0.8"/>
+  <!-- Colored glass sections -->
+  <rect x="8.5" y="13.5" width="3" height="3" fill="#4DB6AC" opacity="0.2"/>
+  <rect x="12.5" y="13.5" width="3" height="3" fill="#80CBC4" opacity="0.2"/>
+  <!-- Columns -->
+  <line x1="7" y1="8" x2="7" y2="17" stroke="#4DB6AC" stroke-width="1" opacity="0.6"/>
+  <line x1="17" y1="8" x2="17" y2="17" stroke="#4DB6AC" stroke-width="1" opacity="0.6"/>
+</svg>

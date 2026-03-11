@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Folder: Public - Open Castle Gate - BRIGHT GREEN -->
+  <path d="M2 6 L7 6 L9 4 L14 4 L14 6 L22 6 L22 19 L2 19 Z" fill="#81C784" opacity="0.9"/>
+  <rect x="2" y="7" width="20" height="12" rx="1" fill="#2E7D32"/>
+  <!-- Castle towers -->
+  <rect x="6" y="9" width="3" height="8" fill="#81C784" opacity="0.4"/>
+  <rect x="15" y="9" width="3" height="8" fill="#81C784" opacity="0.4"/>
+  <!-- Battlements -->
+  <rect x="6" y="8" width="1.2" height="1.5" fill="#81C784" opacity="0.7"/>
+  <rect x="7.8" y="8" width="1.2" height="1.5" fill="#81C784" opacity="0.7"/>
+  <rect x="15" y="8" width="1.2" height="1.5" fill="#81C784" opacity="0.7"/>
+  <rect x="16.8" y="8" width="1.2" height="1.5" fill="#81C784" opacity="0.7"/>
+  <!-- Open gate arch -->
+  <path d="M9 17 L9 12 Q12 9 15 12 L15 17" fill="#1B5E20" opacity="0.6"/>
+  <path d="M9 17 L9 12 Q12 9 15 12 L15 17" fill="none" stroke="#81C784" stroke-width="0.7"/>
+  <!-- Light spilling out -->
+  <ellipse cx="12" cy="16" rx="2.5" ry="1.2" fill="#81C784" opacity="0.25"/>
+</svg>

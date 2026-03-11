@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Folder: Src - Iron Throne - BRIGHT GOLD -->
+  <path d="M2 6 L7 6 L9 4 L14 4 L14 6 L22 6 L22 19 L2 19 Z" fill="#E8C84A" opacity="0.9"/>
+  <rect x="2" y="7" width="20" height="12" rx="1" fill="#8B6914"/>
+  <!-- Iron Throne swords -->
+  <line x1="8" y1="17" x2="8" y2="9" stroke="#FFD700" stroke-width="0.8"/>
+  <line x1="10" y1="17" x2="10" y2="8" stroke="#FFD700" stroke-width="0.8"/>
+  <line x1="12" y1="17" x2="12" y2="7.5" stroke="#FFD700" stroke-width="1"/>
+  <line x1="14" y1="17" x2="14" y2="8" stroke="#FFD700" stroke-width="0.8"/>
+  <line x1="16" y1="17" x2="16" y2="9" stroke="#FFD700" stroke-width="0.8"/>
+  <!-- Sword tips -->
+  <path d="M7.6 9 L8 7.5 L8.4 9" fill="#FFD700"/>
+  <path d="M9.6 8 L10 6.5 L10.4 8" fill="#FFD700"/>
+  <path d="M11.5 7.5 L12 5.5 L12.5 7.5" fill="#FFD700"/>
+  <path d="M13.6 8 L14 6.5 L14.4 8" fill="#FFD700"/>
+  <path d="M15.6 9 L16 7.5 L16.4 9" fill="#FFD700"/>
+  <!-- Throne seat crossbar -->
+  <line x1="7" y1="14" x2="17" y2="14" stroke="#FFD700" stroke-width="1.2" opacity="0.8"/>
+</svg>

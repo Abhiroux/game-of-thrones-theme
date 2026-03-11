@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Git: Raven - BRIGHTER -->
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="#1A0500"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#F4511E" opacity="0.6"/>
+  <path d="M13 1 L17 5" stroke="#F4511E" stroke-width="0.7"/>
+  <!-- Raven body -->
+  <ellipse cx="10" cy="12.5" rx="3" ry="3.5" fill="#3E2723" opacity="0.9"/>
+  <circle cx="10" cy="8.5" r="2.2" fill="#3E2723"/>
+  <!-- Beak -->
+  <path d="M12 8.5 L14.5 8 L12 9.5" fill="#F4511E"/>
+  <!-- Eye -->
+  <circle cx="11" cy="8" r="0.6" fill="#FF7043"/>
+  <circle cx="11" cy="8" r="0.25" fill="#FFF"/>
+  <!-- Wings -->
+  <path d="M7 10 Q5 8 6 6" stroke="#4E342E" stroke-width="0.8" fill="none"/>
+  <path d="M13 10 Q15 8 14 6" stroke="#4E342E" stroke-width="0.8" fill="none"/>
+  <!-- Scroll in beak -->
+  <rect x="13.5" y="7.5" width="2.5" height="1" rx="0.3" fill="#FFD700" opacity="0.8"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT YAML: Ancient Key (unlocks configuration) -->
+  <defs>
+    <linearGradient id="bg_yaml" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A0A1A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A050A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="url(#bg_yaml)"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#CE93D8" opacity="0.4"/>
+  <path d="M13 1 L17 5" stroke="#CE93D8" stroke-width="0.6" opacity="0.8"/>
+  <!-- Ornate key -->
+  <!-- Key ring/bow -->
+  <circle cx="10" cy="7" r="2.5" fill="none" stroke="#CE93D8" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="10" cy="7" r="1.5" fill="#1A0A1A" opacity="0.5"/>
+  <!-- Key shaft -->
+  <line x1="10" y1="9.5" x2="10" y2="17" stroke="#CE93D8" stroke-width="0.9" opacity="0.7"/>
+  <!-- Key teeth -->
+  <line x1="10" y1="15" x2="12" y2="15" stroke="#CE93D8" stroke-width="0.8" opacity="0.7"/>
+  <line x1="10" y1="17" x2="12" y2="17" stroke="#CE93D8" stroke-width="0.8" opacity="0.7"/>
+  <line x1="10" y1="13" x2="11.5" y2="13" stroke="#CE93D8" stroke-width="0.6" opacity="0.5"/>
+  <!-- Ornate detail on bow -->
+  <circle cx="10" cy="7" r="0.5" fill="#CE93D8" opacity="0.5"/>
+</svg>

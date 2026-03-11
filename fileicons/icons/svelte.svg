@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Svelte: Burning Torch / Lightbringer -->
+  <defs>
+    <linearGradient id="bg_svelte" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A0500;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A0200;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="url(#bg_svelte)"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#FF3E00" opacity="0.4"/>
+  <path d="M13 1 L17 5" stroke="#FF3E00" stroke-width="0.6" opacity="0.8"/>
+  <!-- Torch handle -->
+  <rect x="9.2" y="12" width="1.6" height="6" rx="0.3" fill="#8D6E63" opacity="0.6"/>
+  <!-- Torch cup -->
+  <path d="M7.5 11 L8 12.5 L12 12.5 L12.5 11 Z" fill="#BF360C" opacity="0.5"/>
+  <!-- Flame -->
+  <path d="M10 11 Q8 8 9 5 Q10 7 10 6 Q10 4 11 3 Q11 5 12 5 Q13 4 12 7 Q14 6 12 9 Q13 8 12 11 Z" fill="#FF3E00" opacity="0.35"/>
+  <path d="M10 11 Q9 9 9.5 7 Q10 8 10.5 6 Q11 8 11.5 7 Q12 9 11 11 Z" fill="#FF6E40" opacity="0.4"/>
+  <!-- Inner flame -->
+  <path d="M10 11 Q9.5 9 10 8 Q10.5 9 11 8 Q11.5 9 11 11 Z" fill="#FFAB40" opacity="0.5"/>
+  <!-- Ember sparks -->
+  <circle cx="8" cy="4" r="0.3" fill="#FF3E00" opacity="0.5"/>
+  <circle cx="13" cy="3" r="0.25" fill="#FF6E40" opacity="0.4"/>
+</svg>

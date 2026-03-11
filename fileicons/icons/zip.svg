@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Zip: Treasure Chest -->
+  <defs>
+    <linearGradient id="bg_zip" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A1200;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A0800;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="url(#bg_zip)"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#8D6E63" opacity="0.4"/>
+  <path d="M13 1 L17 5" stroke="#8D6E63" stroke-width="0.6" opacity="0.8"/>
+  <!-- Treasure chest lid -->
+  <path d="M5 10 Q5 7 10 7 Q15 7 15 10 Z" fill="#8D6E63" opacity="0.25"/>
+  <path d="M5 10 Q5 7 10 7 Q15 7 15 10" fill="none" stroke="#8D6E63" stroke-width="0.7" opacity="0.6"/>
+  <!-- Chest body -->
+  <rect x="5" y="10" width="10" height="7" fill="#8D6E63" opacity="0.2"/>
+  <rect x="5" y="10" width="10" height="7" fill="none" stroke="#8D6E63" stroke-width="0.7" opacity="0.6"/>
+  <!-- Metal bands -->
+  <line x1="5" y1="12" x2="15" y2="12" stroke="#CFB53B" stroke-width="0.5" opacity="0.5"/>
+  <line x1="5" y1="15" x2="15" y2="15" stroke="#CFB53B" stroke-width="0.5" opacity="0.5"/>
+  <!-- Lock/clasp -->
+  <rect x="9" y="9" width="2" height="2" rx="0.3" fill="#CFB53B" opacity="0.6"/>
+  <circle cx="10" cy="10" r="0.4" fill="#1A1200" opacity="0.7"/>
+  <!-- Gold coins peeking -->
+  <circle cx="8" cy="8.5" r="0.6" fill="#CFB53B" opacity="0.4"/>
+  <circle cx="12" cy="8" r="0.5" fill="#CFB53B" opacity="0.35"/>
+</svg>

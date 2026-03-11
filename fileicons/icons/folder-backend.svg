@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Folder: Backend - Castle Keep / Fortress - BRIGHT ORANGE -->
+  <path d="M2 6 L7 6 L9 4 L14 4 L14 6 L22 6 L22 19 L2 19 Z" fill="#FFB74D" opacity="0.9"/>
+  <rect x="2" y="7" width="20" height="12" rx="1" fill="#E65100"/>
+  <!-- Castle keep / fortress -->
+  <rect x="7" y="10" width="10" height="7" fill="#FFB74D" opacity="0.3"/>
+  <!-- Tower left -->
+  <rect x="5" y="9" width="3" height="8" fill="#FFB74D" opacity="0.35"/>
+  <rect x="5" y="7.5" width="1" height="2" fill="#FFB74D" opacity="0.6"/>
+  <rect x="7" y="7.5" width="1" height="2" fill="#FFB74D" opacity="0.6"/>
+  <!-- Tower right -->
+  <rect x="16" y="9" width="3" height="8" fill="#FFB74D" opacity="0.35"/>
+  <rect x="16" y="7.5" width="1" height="2" fill="#FFB74D" opacity="0.6"/>
+  <rect x="18" y="7.5" width="1" height="2" fill="#FFB74D" opacity="0.6"/>
+  <!-- Center battlements -->
+  <rect x="9" y="8.5" width="1.2" height="2" fill="#FFB74D" opacity="0.5"/>
+  <rect x="11.4" y="8.5" width="1.2" height="2" fill="#FFB74D" opacity="0.5"/>
+  <rect x="13.8" y="8.5" width="1.2" height="2" fill="#FFB74D" opacity="0.5"/>
+  <!-- Door -->
+  <path d="M10.5 17 L10.5 14 Q12 12.5 13.5 14 L13.5 17" fill="#E65100" opacity="0.6"/>
+  <!-- Window slits -->
+  <rect x="8" y="12" width="1" height="2.5" rx="0.3" fill="#FFB74D" opacity="0.5"/>
+  <rect x="15" y="12" width="1" height="2.5" rx="0.3" fill="#FFB74D" opacity="0.5"/>
+</svg>

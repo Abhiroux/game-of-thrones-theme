@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT TS: Ice Dragon - BRIGHTER -->
+  <rect x="2" y="2" width="20" height="20" rx="2" fill="#0A1929"/>
+  <rect x="2" y="2" width="20" height="20" rx="2" fill="none" stroke="#4FC3F7" stroke-width="0.5" opacity="0.3"/>
+  <!-- Ice dragon head -->
+  <path d="M7 16 Q7 10 12 8 Q14 7 15 8 L16 7 L15.5 9 Q17 10 17 13 Q17 15 15 16" fill="none" stroke="#4FC3F7" stroke-width="1.2"/>
+  <!-- Dragon wing -->
+  <path d="M9 12 Q6 8 8 6 Q9 8 11 9" fill="#4FC3F7" opacity="0.3"/>
+  <path d="M9 12 Q6 8 8 6" stroke="#4FC3F7" stroke-width="0.7" fill="none"/>
+  <!-- Ice breath -->
+  <circle cx="17.5" cy="11" r="0.9" fill="#B3E5FC" opacity="0.7"/>
+  <circle cx="19" cy="10" r="0.6" fill="#B3E5FC" opacity="0.6"/>
+  <circle cx="19.5" cy="12" r="0.5" fill="#B3E5FC" opacity="0.5"/>
+  <!-- Dragon eye -->
+  <circle cx="14" cy="9" r="0.8" fill="#4FC3F7"/>
+  <!-- TS -->
+  <text x="3.5" y="20" font-family="monospace" font-size="5.5" font-weight="bold" fill="#4FC3F7">TS</text>
+</svg>

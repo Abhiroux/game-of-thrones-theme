@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Vue: Weirwood Leaf -->
+  <defs>
+    <linearGradient id="bg_vue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001A0D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000A06;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="url(#bg_vue)"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#4CAF50" opacity="0.4"/>
+  <path d="M13 1 L17 5" stroke="#4CAF50" stroke-width="0.6" opacity="0.8"/>
+  <!-- Weirwood leaf (five-pointed like Vue chevron) -->
+  <path d="M10 5 L6 12 L8 12 L5 18 L10 14 L8 14 L10 9 L12 14 L10 14 L15 18 L12 12 L14 12 Z" fill="#4CAF50" opacity="0.25"/>
+  <path d="M10 5 L6 12 L8 12 L5 18 L10 14 L8 14 L10 9 L12 14 L10 14 L15 18 L12 12 L14 12 Z" fill="none" stroke="#4CAF50" stroke-width="0.6" opacity="0.6"/>
+  <!-- Weirwood face (subtle red sap) -->
+  <circle cx="9" cy="10" r="0.3" fill="#C62828" opacity="0.6"/>
+  <circle cx="11" cy="10" r="0.3" fill="#C62828" opacity="0.6"/>
+  <path d="M9.5 11 Q10 11.5 10.5 11" fill="none" stroke="#C62828" stroke-width="0.3" opacity="0.5"/>
+</svg>

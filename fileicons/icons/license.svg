@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT License: Royal Decree - BRIGHTER -->
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="#1A1500"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#E8C84A" opacity="0.6"/>
+  <path d="M13 1 L17 5" stroke="#E8C84A" stroke-width="0.7"/>
+  <!-- Royal seal -->
+  <circle cx="10" cy="10" r="3.5" fill="#C62828" opacity="0.5"/>
+  <circle cx="10" cy="10" r="2.5" fill="#D32F2F" opacity="0.4"/>
+  <circle cx="10" cy="10" r="1.5" fill="#E8C84A" opacity="0.5"/>
+  <!-- Crown on seal -->
+  <path d="M8.5 9.5 L9 7.5 L10 9 L11 7.5 L11.5 9.5" fill="none" stroke="#FFD700" stroke-width="0.7"/>
+  <!-- Ribbon -->
+  <path d="M7 13 L8 16 L10 14 L12 16 L13 13" fill="none" stroke="#C62828" stroke-width="0.8"/>
+  <!-- Text -->
+  <line x1="6" y1="17.5" x2="14" y2="17.5" stroke="#E8C84A" stroke-width="0.5" opacity="0.5"/>
+  <line x1="7" y1="19" x2="13" y2="19" stroke="#E8C84A" stroke-width="0.5" opacity="0.4"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Default Folder Open: Castle Gate Raised - Bright Gold -->
+  <defs>
+    <linearGradient id="folderOpenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8C84A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A07B1A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Folder tab -->
+  <path d="M2 6 L7 6 L9 4 L13 4 L13 6 L20 6 L22 8 L22 20 L2 20 Z" fill="#E8C84A" opacity="0.9"/>
+  <!-- Folder body open -->
+  <path d="M2 8 L4 7 L22 7 L22 20 L2 20 Z" fill="url(#folderOpenGrad)"/>
+  <!-- Gate arch (open) -->
+  <path d="M9 20 L9 14 Q12 11 15 14 L15 20" fill="#1A1200" opacity="0.4"/>
+  <!-- Raised portcullis -->
+  <line x1="9" y1="12" x2="15" y2="12" stroke="#E8C84A" stroke-width="0.8" opacity="0.7"/>
+  <line x1="10" y1="12" x2="10" y2="10" stroke="#E8C84A" stroke-width="0.6" opacity="0.6"/>
+  <line x1="14" y1="12" x2="14" y2="10" stroke="#E8C84A" stroke-width="0.6" opacity="0.6"/>
+  <!-- Light glow -->
+  <ellipse cx="12" cy="18" rx="2.5" ry="1.5" fill="#E8C84A" opacity="0.2"/>
+</svg>

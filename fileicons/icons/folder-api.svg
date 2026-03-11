@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Folder: API - Ravens Flying - BRIGHT GOLD -->
+  <path d="M2 6 L7 6 L9 4 L14 4 L14 6 L22 6 L22 19 L2 19 Z" fill="#E8C84A" opacity="0.9"/>
+  <rect x="2" y="7" width="20" height="12" rx="1" fill="#6D4C00"/>
+  <!-- Raven 1 -->
+  <circle cx="8" cy="11" r="1.2" fill="#4E342E" opacity="0.9"/>
+  <path d="M7 10 Q5 8 6.5 8.5" stroke="#5D4037" stroke-width="0.8" fill="none"/>
+  <path d="M9 10 Q11 8 9.5 8.5" stroke="#5D4037" stroke-width="0.8" fill="none"/>
+  <path d="M9.2 11 L10.5 10.5" stroke="#E8C84A" stroke-width="0.5"/>
+  <rect x="10" y="10" width="1.8" height="0.8" rx="0.3" fill="#E8C84A" opacity="0.8"/>
+  <!-- Raven 2 -->
+  <circle cx="16" cy="14" r="1.2" fill="#4E342E" opacity="0.9"/>
+  <path d="M15 13 Q13 11 14.5 11.5" stroke="#5D4037" stroke-width="0.8" fill="none"/>
+  <path d="M17 13 Q19 11 17.5 11.5" stroke="#5D4037" stroke-width="0.8" fill="none"/>
+  <!-- Connection arrows -->
+  <path d="M12 12 L14 13.5" stroke="#E8C84A" stroke-width="0.7"/>
+  <path d="M14 13.5 L13 12.8 M14 13.5 L13.2 14.2" stroke="#E8C84A" stroke-width="0.5"/>
+  <!-- Flight path -->
+  <line x1="4" y1="12.5" x2="20" y2="12.5" stroke="#E8C84A" stroke-width="0.3" stroke-dasharray="1.5,1" opacity="0.4"/>
+</svg>

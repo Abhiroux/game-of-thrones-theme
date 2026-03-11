@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Default File: Sealed Parchment - BRIGHTER -->
+  <defs>
+    <linearGradient id="scrollGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3A3A3A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#252525;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="2" width="13" height="20" rx="1" fill="url(#scrollGrad)"/>
+  <path d="M13 2 L17 6 L13 6 Z" fill="#E8C84A" opacity="0.6"/>
+  <line x1="13" y1="2" x2="17" y2="6" stroke="#E8C84A" stroke-width="0.6" opacity="0.8"/>
+  <!-- Wax seal -->
+  <circle cx="10.5" cy="12" r="3" fill="#C62828" opacity="0.7"/>
+  <circle cx="10.5" cy="12" r="2" fill="#D32F2F" opacity="0.5"/>
+  <circle cx="10.5" cy="12" r="1" fill="#E8C84A" opacity="0.6"/>
+  <!-- Text lines -->
+  <line x1="7" y1="17" x2="14" y2="17" stroke="#9E9E9E" stroke-width="0.7" stroke-linecap="round"/>
+  <line x1="7" y1="19" x2="11" y2="19" stroke="#9E9E9E" stroke-width="0.7" stroke-linecap="round"/>
+</svg>

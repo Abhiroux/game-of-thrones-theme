@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Config: Astrolabe - BRIGHTER -->
+  <rect x="3" y="1" width="14" height="19" rx="1.5" fill="#1A001A"/>
+  <path d="M13 1 L17 5 L13 5 Z" fill="#B39DDB" opacity="0.6"/>
+  <path d="M13 1 L17 5" stroke="#B39DDB" stroke-width="0.7"/>
+  <!-- Astrolabe rings -->
+  <circle cx="10" cy="12" r="5" fill="none" stroke="#B39DDB" stroke-width="0.7"/>
+  <circle cx="10" cy="12" r="3.5" fill="none" stroke="#B39DDB" stroke-width="0.6"/>
+  <circle cx="10" cy="12" r="2" fill="none" stroke="#B39DDB" stroke-width="0.5"/>
+  <!-- Cross lines -->
+  <line x1="10" y1="7" x2="10" y2="17" stroke="#B39DDB" stroke-width="0.5" opacity="0.5"/>
+  <line x1="5" y1="12" x2="15" y2="12" stroke="#B39DDB" stroke-width="0.5" opacity="0.5"/>
+  <!-- Pointer -->
+  <line x1="10" y1="12" x2="13" y2="9" stroke="#FFD700" stroke-width="0.8"/>
+  <circle cx="10" cy="12" r="0.7" fill="#FFD700"/>
+  <!-- Cardinal dots -->
+  <circle cx="10" cy="7" r="0.5" fill="#B39DDB"/>
+  <circle cx="15" cy="12" r="0.5" fill="#B39DDB"/>
+  <circle cx="10" cy="17" r="0.5" fill="#B39DDB"/>
+  <circle cx="5" cy="12" r="0.5" fill="#B39DDB"/>
+</svg>

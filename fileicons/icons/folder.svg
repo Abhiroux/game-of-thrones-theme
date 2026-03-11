@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- GOT Default Folder: Castle Gate - Bright Gold -->
+  <defs>
+    <linearGradient id="folderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4A840;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B6914;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Folder tab -->
+  <path d="M2 6 L7 6 L9 4 L13 4 L13 6 L22 6 L22 20 L2 20 Z" fill="#E8C84A" opacity="0.9"/>
+  <!-- Folder body -->
+  <rect x="2" y="7" width="20" height="13" rx="1" fill="url(#folderGrad)"/>
+  <!-- Castle gate arch -->
+  <path d="M9 20 L9 14 Q12 11 15 14 L15 20" fill="#1A1200" opacity="0.5"/>
+  <!-- Gate portcullis lines -->
+  <line x1="11" y1="13" x2="11" y2="20" stroke="#E8C84A" stroke-width="0.6" opacity="0.6"/>
+  <line x1="13" y1="13" x2="13" y2="20" stroke="#E8C84A" stroke-width="0.6" opacity="0.6"/>
+  <line x1="9" y1="16" x2="15" y2="16" stroke="#E8C84A" stroke-width="0.6" opacity="0.6"/>
+  <line x1="9" y1="18" x2="15" y2="18" stroke="#E8C84A" stroke-width="0.6" opacity="0.6"/>
+</svg>

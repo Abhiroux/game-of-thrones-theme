@@ -1,0 +1,62 @@
+{
+  "name": "game-of-thrones-theme",
+  "displayName": "Game of Thrones - The Seven Kingdoms",
+  "description": "A complete Game of Thrones VS Code experience: dark themes inspired by the Great Houses, GoT-themed file & folder icons, custom terminal colors, and more.",
+  "version": "2.0.0",
+  "publisher": "YOUR_PUBLISHER_NAME",
+  "engines": { "vscode": "^1.75.0" },
+  "categories": ["Themes"],
+  "keywords": ["game of thrones", "got", "theme", "dark", "icon", "westeros", "stark", "lannister", "targaryen"],
+  "icon": "images/icon.png",
+  "galleryBanner": { "color": "#0D0D0D", "theme": "dark" },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/game-of-thrones-theme"
+  },
+  "main": "./extension.js",
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GOT: The Iron Throne (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iron-throne.json"
+      },
+      {
+        "label": "GOT: House Stark (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-stark.json"
+      },
+      {
+        "label": "GOT: House Lannister (Dark Gold)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-lannister.json"
+      },
+      {
+        "label": "GOT: House Targaryen (Dark Fire)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-targaryen.json"
+      },
+      {
+        "label": "GOT: Night's Watch (Pitch Black)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nights-watch.json"
+      },
+      {
+        "label": "GOT: Beyond the Wall (High Contrast)",
+        "uiTheme": "hc-black",
+        "path": "./themes/beyond-the-wall.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "got-icons-westeros",
+        "label": "GOT Icons: Westeros",
+        "path": "./fileicons/got-icon-theme.json"
+      }
+    ]
+  }
+}
