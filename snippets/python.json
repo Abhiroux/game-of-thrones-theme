@@ -1,0 +1,29 @@
+{
+  "Dragon Class": {
+    "prefix": "dragon",
+    "body": [
+      "class ${1:Dragon}:",
+      "    \"\"\"${2:A creature of fire and blood.}\"\"\"",
+      "",
+      "    def __init__(self, ${3:name}: str):",
+      "        self.${3:name} = ${3:name}",
+      "        self.fire_breath = True",
+      "",
+      "    def ${4:dracarys}(self) -> None:",
+      "        \"\"\"🔥 Dracarys!\"\"\"",
+      "        ${5:pass}"
+    ],
+    "description": "GOT dragon-themed Python class"
+  },
+  "House Function": {
+    "prefix": "house",
+    "body": [
+      "def ${1:function_name}(${2:params}) -> ${3:None}:",
+      "    \"\"\"",
+      "    House ${4:Stark} — ${5:Winter is Coming}",
+      "    \"\"\"",
+      "    ${6:pass}"
+    ],
+    "description": "GOT house-themed Python function"
+  }
+}

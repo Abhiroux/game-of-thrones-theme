@@ -1,12 +1,12 @@
 {
   "name": "game-of-thrones-theme",
   "displayName": "Game of Thrones - The Seven Kingdoms",
-  "description": "A complete Game of Thrones VS Code experience: dark themes inspired by the Great Houses, GoT-themed file & folder icons, custom terminal colors, and more.",
-  "version": "2.0.0",
+  "description": "A complete Game of Thrones VS Code experience: 12 house-themed color themes, GoT file & folder icons, themed code snippets, bracket colorization, and auto icon switching.",
+  "version": "3.0.0",
   "publisher": "YOUR_PUBLISHER_NAME",
   "engines": { "vscode": "^1.75.0" },
-  "categories": ["Themes"],
-  "keywords": ["game of thrones", "got", "theme", "dark", "icon", "westeros", "stark", "lannister", "targaryen"],
+  "categories": ["Themes", "Snippets"],
+  "keywords": ["game of thrones", "got", "theme", "dark", "icon", "westeros", "stark", "lannister", "targaryen", "baratheon", "greyjoy", "martell", "tyrell", "bolton"],
   "icon": "images/icon.png",
   "galleryBanner": { "color": "#0D0D0D", "theme": "dark" },
   "license": "MIT",
@@ -41,14 +41,44 @@
         "path": "./themes/house-targaryen.json"
       },
       {
+        "label": "GOT: House Baratheon (Storm)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-baratheon.json"
+      },
+      {
+        "label": "GOT: House Greyjoy (Iron Islands)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-greyjoy.json"
+      },
+      {
+        "label": "GOT: House Martell (Dorne)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-martell.json"
+      },
+      {
+        "label": "GOT: House Tyrell (Highgarden)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-tyrell.json"
+      },
+      {
+        "label": "GOT: House Bolton (Dreadfort)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-bolton.json"
+      },
+      {
         "label": "GOT: Night's Watch (Pitch Black)",
         "uiTheme": "vs-dark",
         "path": "./themes/nights-watch.json"
       },
       {
         "label": "GOT: Beyond the Wall (High Contrast)",
-        "uiTheme": "hc-black",
+        "uiTheme": "vs-dark",
         "path": "./themes/beyond-the-wall.json"
+      },
+      {
+        "label": "GOT: Westeros (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/westeros-light.json"
       }
     ],
     "iconThemes": [
@@ -57,6 +87,59 @@
         "label": "GOT Icons: Westeros",
         "path": "./fileicons/got-icon-theme.json"
       }
-    ]
+    ],
+    "productIconThemes": [
+      {
+        "id": "got-product-icons",
+        "label": "GOT Product Icons",
+        "path": "./product-icons/got-product-icons.json"
+      }
+    ],
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/javascript.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/javascript.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/typescript.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/typescript.json"
+      },
+      {
+        "language": "python",
+        "path": "./snippets/python.json"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "workbench.action.selectTheme",
+        "key": "ctrl+shift+g",
+        "when": "editorFocus",
+        "title": "GOT: Switch House Theme"
+      }
+    ],
+    "configuration": {
+      "title": "Game of Thrones Theme",
+      "properties": {
+        "gotTheme.autoSetIconTheme": {
+          "type": "string",
+          "default": "ask",
+          "enum": ["always", "ask", "never"],
+          "enumDescriptions": [
+            "Always switch to GOT icon theme when a GOT color theme is selected",
+            "Ask me each time whether to switch the icon theme",
+            "Never auto-switch the icon theme — I'll set it manually"
+          ],
+          "description": "Controls whether selecting a GOT color theme automatically applies the GOT icon theme."
+        }
+      }
+    }
   }
 }

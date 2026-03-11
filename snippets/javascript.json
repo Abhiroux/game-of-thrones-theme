@@ -1,0 +1,102 @@
+{
+  "Iron Throne Console": {
+    "prefix": "throne",
+    "body": ["console.log('⚔️ ${1:The Iron Throne}: ', ${2:value});"],
+    "description": "GOT styled console.log — speak from the Iron Throne"
+  },
+  "House Function": {
+    "prefix": "house",
+    "body": [
+      "/**",
+      " * House ${1:Stark} — ${2:Winter is Coming}",
+      " * @param {${3:string}} ${4:name}",
+      " */",
+      "function ${5:functionName}(${4:name}) {",
+      "  ${6:// The North Remembers}",
+      "}"
+    ],
+    "description": "GOT house-themed function declaration"
+  },
+  "Dragon Class": {
+    "prefix": "dragon",
+    "body": [
+      "class ${1:Dragon} {",
+      "  constructor(${2:name}) {",
+      "    this.${2:name} = ${2:name};",
+      "    this.fireBreath = true;",
+      "  }",
+      "",
+      "  ${3:dracarys}() {",
+      "    ${4:// 🔥 Dracarys!}",
+      "    return this.${2:name};",
+      "  }",
+      "}"
+    ],
+    "description": "GOT dragon-themed class with constructor"
+  },
+  "Raven Message": {
+    "prefix": "raven",
+    "body": [
+      "// 🐦 Dark wings, dark words",
+      "const ${1:message} = {",
+      "  from: '${2:Winterfell}',",
+      "  to: '${3:King\\'s Landing}',",
+      "  content: '${4:Winter is coming}',",
+      "  urgent: ${5:true}",
+      "};"
+    ],
+    "description": "GOT raven message object"
+  },
+  "Valar Morghulis Try-Catch": {
+    "prefix": "valar",
+    "body": [
+      "try {",
+      "  ${1:// Valar Morghulis — All men must die}",
+      "  ${2:riskyOperation();}",
+      "} catch (${3:error}) {",
+      "  // Valar Dohaeris — All men must serve",
+      "  console.error('⚔️ A ${3:error} has no name:', ${3:error});",
+      "}"
+    ],
+    "description": "GOT try-catch with Valar Morghulis theme"
+  },
+  "Night's Watch Promise": {
+    "prefix": "oath",
+    "body": [
+      "// 🗡️ Night gathers, and now my watch begins",
+      "const ${1:watch} = new Promise((resolve, reject) => {",
+      "  ${2:// I shall take no wife, hold no lands}",
+      "  if (${3:condition}) {",
+      "    resolve('${4:The Wall stands}');",
+      "  } else {",
+      "    reject(new Error('${5:The Wall has fallen}'));",
+      "  }",
+      "});"
+    ],
+    "description": "GOT Night's Watch oath-themed Promise"
+  },
+  "Hand of the King Comment": {
+    "prefix": "hand",
+    "body": [
+      "/**",
+      " * ═══════════════════════════════",
+      " * 👑 ${1:Section Title}",
+      " * Hand of the King's decree",
+      " * ${2:Description of this section}",
+      " * ═══════════════════════════════",
+      " */"
+    ],
+    "description": "GOT ornate section comment block"
+  },
+  "Hodor Loop": {
+    "prefix": "hodor",
+    "body": [
+      "for (let ${1:i} = 0; ${1:i} < ${2:array}.length; ${1:i}++) {",
+      "  // Hodor! Hodor! HODOR!",
+      "  ${3:const item = ${2:array}[${1:i}];}",
+      "  ${4:// Hold the door}",
+      "}"
+    ],
+    "description": "GOT Hodor-themed for loop"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Dragon Class": {
+    "prefix": "dragon",
+    "body": [
+      "class ${1:Dragon} {",
+      "  ${2:name}: string;",
+      "  fireBreath: boolean;",
+      "",
+      "  constructor(${2:name}: string) {",
+      "    this.${2:name} = ${2:name};",
+      "    this.fireBreath = true;",
+      "  }",
+      "",
+      "  ${3:dracarys}(): ${4:void} {",
+      "    ${5:// 🔥 Dracarys!}",
+      "  }",
+      "}"
+    ],
+    "description": "GOT dragon-themed TypeScript class"
+  },
+  "Iron Throne Interface": {
+    "prefix": "throne-type",
+    "body": [
+      "interface ${1:House} {",
+      "  name: string;",
+      "  sigil: string;",
+      "  words: string;",
+      "  seat: string;",
+      "  ${2:// Add more bannermen}",
+      "}"
+    ],
+    "description": "GOT house-themed TypeScript interface"
+  },
+  "Raven Generic": {
+    "prefix": "raven-type",
+    "body": [
+      "type Raven<${1:T}> = {",
+      "  from: string;",
+      "  to: string;",
+      "  content: ${1:T};",
+      "  urgent: boolean;",
+      "};"
+    ],
+    "description": "GOT raven-themed TypeScript generic type"
+  }
+}

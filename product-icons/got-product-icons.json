@@ -1,0 +1,38 @@
+{
+  "hidesExplorerArrows": false,
+  "iconDefinitions": {
+    "got-settings": {
+      "fontCharacter": "\\2699",
+      "fontColor": "#CFB53B"
+    },
+    "got-search": {
+      "fontCharacter": "\\1F50D",
+      "fontColor": "#CFB53B"
+    },
+    "got-close": {
+      "fontCharacter": "\\2716",
+      "fontColor": "#8B0000"
+    },
+    "got-chevron-right": {
+      "fontCharacter": "\\276F",
+      "fontColor": "#CFB53B"
+    },
+    "got-chevron-down": {
+      "fontCharacter": "\\276E",
+      "fontColor": "#CFB53B"
+    }
+  },
+  "fonts": [
+    {
+      "id": "got-icons",
+      "src": [
+        {
+          "path": "./got-icons.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ]
+}
