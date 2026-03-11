@@ -3,12 +3,35 @@
   "displayName": "Game of Thrones - The Seven Kingdoms",
   "description": "A complete Game of Thrones VS Code experience: 12 house-themed color themes, GoT file & folder icons, themed code snippets, bracket colorization, and auto icon switching.",
   "version": "3.0.0",
-  "publisher": "YOUR_PUBLISHER_NAME",
-  "engines": { "vscode": "^1.75.0" },
-  "categories": ["Themes", "Snippets"],
-  "keywords": ["game of thrones", "got", "theme", "dark", "icon", "westeros", "stark", "lannister", "targaryen", "baratheon", "greyjoy", "martell", "tyrell", "bolton"],
+  "publisher": "Abhiroux",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes",
+    "Snippets"
+  ],
+  "keywords": [
+    "game of thrones",
+    "got",
+    "theme",
+    "dark",
+    "icon",
+    "westeros",
+    "stark",
+    "lannister",
+    "targaryen",
+    "baratheon",
+    "greyjoy",
+    "martell",
+    "tyrell",
+    "bolton"
+  ],
   "icon": "images/icon.png",
-  "galleryBanner": { "color": "#0D0D0D", "theme": "dark" },
+  "galleryBanner": {
+    "color": "#0D0D0D",
+    "theme": "dark"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -131,7 +154,11 @@
         "gotTheme.autoSetIconTheme": {
           "type": "string",
           "default": "ask",
-          "enum": ["always", "ask", "never"],
+          "enum": [
+            "always",
+            "ask",
+            "never"
+          ],
           "enumDescriptions": [
             "Always switch to GOT icon theme when a GOT color theme is selected",
             "Ask me each time whether to switch the icon theme",
